@@ -30,3 +30,8 @@ python -u train.py --gpuid 0 --mode test --dataset ggmap --checkpoint ./logs/opt
 ## License
 
 This project is released under the Apache 2.0 license.
+
+## Contact
+Junchen Yu: yujc@zju.edu.cn
+Si-Yuan Cao: cao_siyuan@zju.edu.cn
+
